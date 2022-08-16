@@ -1,0 +1,70 @@
+fases primarias
+requisitos
+analisis y diseño
+codificion
+pruebas
+despriegue
+
+
+gestios y soporte
+planeacion 
+manejo de versiones
+aseguramiento de la calidad
+
+
+actividades primarias
+requisitos: lo que se necesirta, funciones y el valor esperado
+    casos de uso
+    historias de usuario
+    documento de requisitos
+    diagramas de procesos
+
+analisis y diseño
+    selecionar como se va a solucionar el producto 
+        diagrama de clases
+        diagramas de flujo
+        modelo entidad - relacion
+        prototipos de pantalla*/
+ */
+codificion
+    implemetar lo que se hizo el analisis 
+        codeigo de programa
+        pruebas unitarias
+        manuales
+        documentacion
+
+pruebas
+    verificar que se obtiene los resultados y el comportamiento esperados
+        diseño de pruebas
+        resultados de pruebas
+        resultados de ejecucion
+        informacion de calidad
+
+despliegue
+   hacer el sofware disponible para su uso por lo general en el entorno web o nube
+    configuracion de servidores    */
+    */
+    */
+
+******planeacion******
+definir el tiempo, poner metas claras 
+    planes de trabajo (calidad, cronograma)
+    tableros de control 
+    diagramas de control
+    seguimiento al proyecto
+
+****manejo de versiones****************
+garantizar que todos los estan trabajando con los componentes correctos de software
+    sistemas de copntrol y versiones
+    repositorios
+
+
+*******asegramiento de la calidad   *******
+    monitorear los procesos y productos para garantizar la calidad    */
+    -revicion
+    estandares
+    lineas de chequeo
+    definiciones de procesos
+
+
+    integracion y mantenimiento 
