@@ -1,0 +1,17 @@
+D:\programaddgit\desarrollo de software\hospiencasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.csproj.AssemblyReference.cache
+D:\programaddgit\desarrollo de software\hospiencasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\programaddgit\desarrollo de software\hospiencasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.AssemblyInfoInputs.cache
+D:\programaddgit\desarrollo de software\hospiencasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.AssemblyInfo.cs
+D:\programaddgit\desarrollo de software\hospiencasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.csproj.CoreCompileInputs.cache
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Persistencia.deps.json
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Persistencia.runtimeconfig.json
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Persistencia.dll
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Persistencia.pdb
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Dominio.dll
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\bin\Debug\net6.0\HospiEnCasa.app.Dominio.pdb
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.csproj.CopyComplete
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.dll
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\refint\HospiEnCasa.app.Persistencia.dll
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.pdb
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\HospiEnCasa.app.Persistencia.genruntimeconfig.cache
+D:\ProgramAddGit\desarrollo de software\HospiEnCasa.app\HospiEnCasa.app.Persistencia\obj\Debug\net6.0\ref\HospiEnCasa.app.Persistencia.dll
