@@ -1,14 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace HospiEnCasa.App.Dominio;
 public class Enfermera : Persona
-{
-    public Enfermera(string tarjetaProfesional, int horasLaborales)
-    {
-        this.tarjetaProfesional = tarjetaProfesional;
-        this.HorasLaborales = horasLaborales;
-    }
-
-   
+{   [MaxLength(60)]
     public string tarjetaProfesional { get; set; }
+    [MaxLength(60)]
     public int HorasLaborales { get; set; }
 
 

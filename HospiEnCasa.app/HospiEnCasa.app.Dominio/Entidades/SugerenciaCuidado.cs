@@ -1,13 +1,15 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace HospiEnCasa.App.Dominio;
 public class SugerenciaCuidado
 {
-    public SugerenciaCuidado(string fechaHora, string description)
-    {
-        this.FechaHora = fechaHora;
-        this.Description = description;
-    }
-    public string FechaHora { get; set; }
+    [Key]
+    public Guid Id { get; set; }
+    public DateTime FechaHora { get; set; }
+    [MaxLength(150)]
     public string Description { get; set; }
+    public ICollection<HistoriasClinica> HistoriaClinica { get; set; }
+
 
 
 

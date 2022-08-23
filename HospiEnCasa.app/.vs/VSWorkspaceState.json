@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\HospiEnCasa.App.Consola",
     "\\HospiEnCasa.app.Dominio",
     "\\HospiEnCasa.app.Dominio\\Entidades",
     "\\HospiEnCasa.app.Persistencia"
   ],
-  "SelectedNode": "\\HospiEnCasa.app.Dominio\\Entidades\\Enfermera.cs",
+  "SelectedNode": "\\HospiEnCasa.app.Dominio\\Entidades\\SugerenciaCuidado.cs",
   "PreviewInSolutionExplorer": false
 }

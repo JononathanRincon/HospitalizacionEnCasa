@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programaddgit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj": {}
+    "D:\\ProgramAddGit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\programaddgit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj": {
+    "D:\\ProgramAddGit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programaddgit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj",
+        "projectUniqueName": "D:\\ProgramAddGit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj",
         "projectName": "HospiEnCasa.app.Dominio",
-        "projectPath": "D:\\programaddgit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj",
+        "projectPath": "D:\\ProgramAddGit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\HospiEnCasa.app.Dominio.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "D:\\programaddgit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\obj\\",
+        "outputPath": "D:\\ProgramAddGit\\desarrollo de software\\HospiEnCasa.app\\HospiEnCasa.app.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,19 +2,14 @@
 namespace HospiEnCasa.App.Dominio;
 public class Paciente :Persona
 {
-    public Paciente(string direccion, string ciudad, string fechaNacimiento,
-                    HistoriasClinica[] historiaClinica)
-    {
-        this.Direccion = direccion;
-        this.Ciudad = ciudad;
-        this.FechaNacimiento = fechaNacimiento;
-        this.HistoriaClinica = historiaClinica;
-
-    }
+    [MaxLength(60)]
     public string Direccion { get; set; }
+    [MaxLength(60)]
     public string Ciudad { get; set; }
-    public string FechaNacimiento { get; set; }
-    public HistoriasClinica[] HistoriaClinica { get; set; }
+
+    public DateTime FechaNacimiento { get; set; }
+    public ICollection<HistoriasClinica> HistoriaClinica { get; set; }
+
 
 
 
